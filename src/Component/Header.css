@@ -1,0 +1,13 @@
+.Tinder-Header{
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.Tinder-Header img{
+    height: 50px;
+    object-fit: contain;
+}
+.Header-icons{
+    padding: 20px;
+}
